@@ -1,5 +1,8 @@
 # AGENTS.md - 视觉资产协同管理平台
 
+重要！！
+- 开源项目学习笔记：https://gcntf98ec0k2.feishu.cn/wiki/INrVw9MbAi3LpNkXa2gcUpDWnkc（你每次修改我的项目的时候，都根据此文档查看在笔记中是怎么做的，尽量改新的，不要一致）
+
 ## 项目概述
 
 **项目名称**：基于 AI 的高校与企业视觉资产协同管理平台
@@ -475,7 +478,7 @@ COS_BUCKET=对象存储桶名称
 
 ## 参考资源
 
-- 开源项目学习笔记：https://gcntf98ec0k2.feishu.cn/wiki/INrVw9MbAi3LpNkXa2gcUpDWnkc
+- 开源项目学习笔记：https://gcntf98ec0k2.feishu.cn/wiki/INrVw9MbAi3LpNkXa2gcUpDWnkc（你每次修改我的项目的时候，都根据此文档查看在笔记中是怎么做的，尽量改新的，不要一致）
 - Knife4j 官方文档：https://doc.xiaominfo.com/
 - Spring Boot 官方文档：https://spring.io/projects/spring-boot
 - MyBatis-Plus 官方文档：https://baomidou.com/
