@@ -3,6 +3,10 @@ package com.gyqstd.visualassets.utils;
 import com.gyqstd.visualassets.common.BaseResponse;
 import com.gyqstd.visualassets.exception.ErrorCode;
 
+/**
+ * 返回结果封装
+ * return ResultUtil.ok("Hello " + name)
+ */
 public class ResultUtil {
 
     /**

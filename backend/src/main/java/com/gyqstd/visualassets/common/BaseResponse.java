@@ -5,6 +5,10 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * 基础响应包装类，配合 ResultUtil
+ * @param <T>
+ */
 @Data
 public class BaseResponse<T> implements Serializable {
 
