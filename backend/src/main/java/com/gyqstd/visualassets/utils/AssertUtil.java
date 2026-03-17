@@ -1,6 +1,8 @@
-package com.gyqstd.visualassets.exception;
+package com.gyqstd.visualassets.utils;
 
 import cn.hutool.core.util.StrUtil;
+import com.gyqstd.visualassets.exception.BusinessException;
+import com.gyqstd.visualassets.exception.ErrorCode;
 
 /**
  * 异常抛出工具类
