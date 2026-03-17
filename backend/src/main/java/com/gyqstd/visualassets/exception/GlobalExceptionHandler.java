@@ -1,7 +1,6 @@
-package com.gyqstd.visualassets.common;
+package com.gyqstd.visualassets.exception;
 
-import com.gyqstd.visualassets.exception.BusinessException;
-import com.gyqstd.visualassets.exception.ErrorCode;
+import com.gyqstd.visualassets.common.BaseResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
